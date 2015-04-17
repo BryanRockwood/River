@@ -1,7 +1,7 @@
 object RiverPrint {
 
 	def main(args: Array[String]){
-	  var test:Array[Int] = Array(1 to 30)
+	  var test:Array[Int] = (1 to 30).toArray
 
 
 	  for (x <- test){
