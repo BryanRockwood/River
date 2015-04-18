@@ -8,4 +8,4 @@ When does boldness rival brashness?
 
 If the chicken lays the egg, when does the crow caw?
 
- 
+hashtag deep. In her throat. 
