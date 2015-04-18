@@ -1,0 +1,3 @@
+object BananaHammock {
+	var BH:Array[String] = new Array[String](3)
+}
