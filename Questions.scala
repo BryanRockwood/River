@@ -8,4 +8,13 @@ When does boldness rival brashness?
 
 If the chicken lays the egg, when does the crow caw?
 
-hashtag deep. In her throat. 
+When you look at a beach, are you looking at a million new universes?
+
+Have you ever tried living through the eyes of the fly on the wall?
+
+Who are you when you arent hungry?
+
+When the bell rings, who will answer the gong?
+
+
+
